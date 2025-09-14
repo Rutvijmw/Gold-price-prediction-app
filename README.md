@@ -33,3 +33,9 @@ The app leverages a **Random Forest Regressor** model and provides tools for **E
 ---
 
 ## 📂 Project Structure
+📁 gold-price-prediction-app
+│── gld_price_data.csv # Default dataset
+│── gold-price-predictions.png # App logo/image
+│── app.py # Main Streamlit application
+│── requirements.txt # Dependencies
+│── README.md # Project documentation
